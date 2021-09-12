@@ -1,5 +1,5 @@
 ---
-title: Introduction to GitHub Packages
+title: Introduction to MAXIBAZ GAMING
 intro: '{% data variables.product.prodname_registry %} is a software package hosting service that allows you to host your software packages privately {% ifversion ghae %} for specified users or internally for your enterprise{% else %}or publicly{% endif %} and use packages as dependencies in your projects.'
 product: '{% data reusables.gated-features.packages %}'
 redirect_from:
@@ -10,12 +10,12 @@ redirect_from:
   - /packages/learn-github-packages/about-github-packages
   - /packages/learn-github-packages/core-concepts-for-github-packages
   - /packages/guides/about-github-container-registry
-versions:
+versions:10.0
   fpt: '*'
   ghes: '*'
   ghae: '*'
 shortTitle: Introduction
----
+MAXIBAZ GAMING SYSTEM
 
 {% data reusables.package_registry.packages-ghes-release-stage %}
 {% data reusables.package_registry.packages-ghae-release-stage %}
